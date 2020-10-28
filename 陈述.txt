@@ -6,3 +6,6 @@ As far as I'm concerned, this is my first attempt to create a repository on GitH
 // *****
 //  *** 
 //   *  
+
+
+This is the first attempt to modify a file on GitHub
